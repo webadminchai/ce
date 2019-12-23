@@ -68,7 +68,7 @@ sections:
     type: section_faq
 menus:
   main:
-    title: Pricing
+    title: Prototype
     weight: 3
 template: landing
 ---
