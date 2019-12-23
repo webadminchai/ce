@@ -5,13 +5,13 @@ sections:
     type: section_hero
   - actions:
       - label: Learn More
-        url: /features
+        url: /prototype
     content: >-
       **A seamless integration between community clean electrification, AI, IoT,
       blockchain and local utilities.**
-    image: images/hero.png
-    section_id: A Community Electricity Micro Utility
-    title: This Is A Big Hero Headline
+    image: /images/ce-image-2.png
+    section_id: ''
+    title: A Community Electricity Micro Utility
     type: section_hero
   - bg: gray
     featureslist:
