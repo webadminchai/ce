@@ -1,14 +1,16 @@
 ---
 title: Home
 sections:
+  - content: '![](/images/ce-image-1.gif)'
+    type: section_hero
   - actions:
       - label: Learn More
         url: /features
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      **A seamless integration between community clean electrification, AI, IoT,
+      blockchain and local utilities.**
     image: images/hero.png
-    section_id: hero
+    section_id: A Community Electricity Micro Utility
     title: This Is A Big Hero Headline
     type: section_hero
   - bg: gray
