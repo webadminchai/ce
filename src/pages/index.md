@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Prototype
 sections:
   - actions:
       - label: Learn More
