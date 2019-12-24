@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Home
 sections:
   - content: '![](/images/ce-image-1.gif)'
     type: section_hero
@@ -85,7 +85,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Team
+    title: Home
     weight: 1
 template: landing
 ---
