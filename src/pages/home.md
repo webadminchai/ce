@@ -85,7 +85,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Team
+    title: ''
     weight: 1
 template: landing
 ---
