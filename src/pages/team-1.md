@@ -42,11 +42,14 @@ sections:
           amet nec urna.
         image: images/feature3.png
         title: Cool Feature of Your Services
-    section_id: features
+    section_id: Our Company
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      We are your digital micro-utility, a community clean electricity service
+      provider which design, finance, develop and manage electricity prosumer
+      blocks and mini-grids that produces and consumes electricity from the main
+      grid while bringing together in a symbiotic relationship the communities,
+      the utilities, and the cities.
+    title: Our Company
     type: section_features
   - bg: white
     reviews:
