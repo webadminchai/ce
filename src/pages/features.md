@@ -1,5 +1,5 @@
 ---
-title: Team
+title: App
 sections:
   - actions:
       - label: Free Trial
