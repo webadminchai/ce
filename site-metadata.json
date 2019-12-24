@@ -4,7 +4,7 @@
   "header": {
     "title": "Community Electricity ",
     "logo_img": "/images/co-logo.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
