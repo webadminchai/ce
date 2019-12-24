@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Home
 sections:
   - actions:
       - label: Learn More
