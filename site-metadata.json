@@ -1,8 +1,8 @@
 {
   "title": "Stackbit Azimuth Theme",
-  "palette": "blue",
+  "palette": "purple",
   "header": {
-    "title": "Azimuth",
+    "title": "Community Electricity ",
     "logo_img": "/images/co-logo.png",
     "has_nav": true,
     "menu": {
