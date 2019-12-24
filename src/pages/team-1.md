@@ -86,6 +86,31 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     type: section_posts
+  - bg: gray
+    faqitems:
+      - answer: >-
+          In order to mobilize community members towards decarbonization, we use
+          a hybrid approach combining physical engagement, powered by a digital
+          App to guide community members to become *prosumers.*
+        question: Community Mobilization
+      - answer: >-
+          Our community electrification strategy is based on the development of
+          community-owned mini-grids and *prosumer blocks* composed by solar PV,
+          energy storage, and energy management system, EV car sharing, and a
+          Blockchain backbone.
+        question: Community Electrification
+      - answer: >-
+          Additional to electricity generation, our protocol includes the
+          integration of two types of community-owned EV car-sharing services as
+          well as EV vanpooling, therefore minimizing the use of fossil fuel
+          vehicles.
+        question: Mobility Electrification
+      - answer: >-
+          Our decarbonization and electrification protocol is a network designed
+          with a micro-grid controller able to be disconnected from the main
+          grid in time of emergencies.
+        question: Community Resiliency
+    type: section_faq
 menus:
   main:
     title: Home
