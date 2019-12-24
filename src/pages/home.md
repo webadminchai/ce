@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Extra Page
 sections:
   - content: '![](/images/ce-image-1.gif)'
     type: section_hero
