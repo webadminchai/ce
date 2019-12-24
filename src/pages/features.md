@@ -1,5 +1,5 @@
 ---
-title: App
+title: Extra Page
 sections:
   - actions:
       - label: Free Trial
@@ -35,7 +35,7 @@ sections:
     type: section_cta
 menus:
   main:
-    title: App
+    title: ''
     weight: 2
 template: landing
 ---
