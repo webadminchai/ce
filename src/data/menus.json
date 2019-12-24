@@ -4,6 +4,11 @@
       "identifier": "Home",
       "title": "Home",
       "url": "/home"
+    },
+    {
+      "identifier": "Team",
+      "title": "Team",
+      "url": "/team"
     }
   ]
 }
