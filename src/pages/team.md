@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Team
 sections:
   - actions:
       - label: Learn More
@@ -83,7 +83,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Home
+    title: Team
     weight: 1
 template: landing
 ---
