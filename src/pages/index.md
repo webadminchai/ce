@@ -1,5 +1,5 @@
 ---
-title: Prototype
+title: App
 sections:
   - actions:
       - label: Learn More
